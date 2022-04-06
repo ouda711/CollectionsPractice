@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/ouda/RiderProjects/CollectionsPractice/CollectionsPractice/CollectionsPractice.csproj": {}
+  },
+  "projects": {
+    "/home/ouda/RiderProjects/CollectionsPractice/CollectionsPractice/CollectionsPractice.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ouda/RiderProjects/CollectionsPractice/CollectionsPractice/CollectionsPractice.csproj",
+        "projectName": "CollectionsPractice",
+        "projectPath": "/home/ouda/RiderProjects/CollectionsPractice/CollectionsPractice/CollectionsPractice.csproj",
+        "packagesPath": "/home/ouda/.nuget/packages/",
+        "outputPath": "/home/ouda/RiderProjects/CollectionsPractice/CollectionsPractice/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ouda/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.406/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

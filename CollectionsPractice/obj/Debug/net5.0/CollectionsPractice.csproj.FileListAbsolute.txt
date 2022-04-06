@@ -1,0 +1,16 @@
+/home/ouda/RiderProjects/CollectionsPractice/CollectionsPractice/bin/Debug/net5.0/CollectionsPractice
+/home/ouda/RiderProjects/CollectionsPractice/CollectionsPractice/bin/Debug/net5.0/CollectionsPractice.deps.json
+/home/ouda/RiderProjects/CollectionsPractice/CollectionsPractice/bin/Debug/net5.0/CollectionsPractice.runtimeconfig.json
+/home/ouda/RiderProjects/CollectionsPractice/CollectionsPractice/bin/Debug/net5.0/CollectionsPractice.runtimeconfig.dev.json
+/home/ouda/RiderProjects/CollectionsPractice/CollectionsPractice/bin/Debug/net5.0/CollectionsPractice.dll
+/home/ouda/RiderProjects/CollectionsPractice/CollectionsPractice/bin/Debug/net5.0/ref/CollectionsPractice.dll
+/home/ouda/RiderProjects/CollectionsPractice/CollectionsPractice/bin/Debug/net5.0/CollectionsPractice.pdb
+/home/ouda/RiderProjects/CollectionsPractice/CollectionsPractice/obj/Debug/net5.0/CollectionsPractice.csproj.AssemblyReference.cache
+/home/ouda/RiderProjects/CollectionsPractice/CollectionsPractice/obj/Debug/net5.0/CollectionsPractice.GeneratedMSBuildEditorConfig.editorconfig
+/home/ouda/RiderProjects/CollectionsPractice/CollectionsPractice/obj/Debug/net5.0/CollectionsPractice.AssemblyInfoInputs.cache
+/home/ouda/RiderProjects/CollectionsPractice/CollectionsPractice/obj/Debug/net5.0/CollectionsPractice.AssemblyInfo.cs
+/home/ouda/RiderProjects/CollectionsPractice/CollectionsPractice/obj/Debug/net5.0/CollectionsPractice.csproj.CoreCompileInputs.cache
+/home/ouda/RiderProjects/CollectionsPractice/CollectionsPractice/obj/Debug/net5.0/CollectionsPractice.dll
+/home/ouda/RiderProjects/CollectionsPractice/CollectionsPractice/obj/Debug/net5.0/ref/CollectionsPractice.dll
+/home/ouda/RiderProjects/CollectionsPractice/CollectionsPractice/obj/Debug/net5.0/CollectionsPractice.pdb
+/home/ouda/RiderProjects/CollectionsPractice/CollectionsPractice/obj/Debug/net5.0/CollectionsPractice.genruntimeconfig.cache
